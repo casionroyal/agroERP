@@ -40,4 +40,4 @@ Clonez ou téléchargez le dépôt du projet dans le répertoire de votre serveu
 
 Configurez l'accès à votre base de données dans le fichier situé dans config/db.php.
 
-Lancez votre serveur local et accédez à l'URL correspondante (ex: http://localhost/agroERP/login_page.php).
+
